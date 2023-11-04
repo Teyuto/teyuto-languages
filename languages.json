@@ -1,34 +1,200 @@
-{
-    "af": "Afrikaans",
-    "sq": "Albanian",
-    "ar": "Arabic",
-    "bg": "Bulgarian",
-    "zh": "Chinese",
-    "cs": "Czech",
-    "da": "Danish",
-    "nl": "Dutch",
-    "en": "English",
-    "et": "Estonian",
-    "fi": "Finnish",
-    "fr": "French",
-    "de": "German",
-    "el": "Greek",
-    "he": "Hebrew",
-    "hu": "Hungarian",
-    "id": "Indonesian",
-    "it": "Italian",
-    "ja": "Japanese",
-    "ko": "Korean",
-    "no": "Norwegian",
-    "pl": "Polish",
-    "pt-BR": "Portuguese (Brazilian)",
-    "pt": "Portuguese (European)",
-    "ro": "Romanian",
-    "sr": "Serbian",
-    "sl": "Slovenian",
-    "es": "Spanish",
-    "sv": "Swedish",
-    "tr": "Turkish",
-    "uk": "Ukrainian",
-    "vi": "Vietnamese"
-}
+[
+    {
+        "code": "af",
+        "name": "Afrikaans",
+        "name_originale": "Afrikaans",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/af/index.json"
+    },
+    {
+        "code": "sq",
+        "name": "Albanian",
+        "name_originale": "Shqip",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/sq/index.json"
+    },
+    {
+        "code": "ar",
+        "name": "Arabic",
+        "name_originale": "العربية",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ar/index.json"
+    },
+    {
+        "code": "bg",
+        "name": "Bulgarian",
+        "name_originale": "Български",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/bg/index.json"
+    },
+    {
+        "code": "zh",
+        "name": "Chinese",
+        "name_originale": "中文",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/zh/index.json"
+    },
+    {
+        "code": "cs",
+        "name": "Czech",
+        "name_originale": "Čeština",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/cs/index.json"
+    },
+    {
+        "code": "da",
+        "name": "Danish",
+        "name_originale": "Dansk",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/da/index.json"
+    },
+    {
+        "code": "nl",
+        "name": "Dutch",
+        "name_originale": "Nederlands",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/nl/index.json"
+    },
+    {
+        "code": "en",
+        "name": "English",
+        "name_originale": "English",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/index.json"
+    },
+    {
+        "code": "et",
+        "name": "Estonian",
+        "name_originale": "Eesti",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/et/index.json"
+    },
+    {
+        "code": "fi",
+        "name": "Finnish",
+        "name_originale": "Suomi",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/fi/index.json"
+    },
+    {
+        "code": "fr",
+        "name": "French",
+        "name_originale": "Français",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/fr/index.json"
+    },
+    {
+        "code": "de",
+        "name": "German",
+        "name_originale": "Deutsch",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/de/index.json"
+    },
+    {
+        "code": "el",
+        "name": "Greek",
+        "name_originale": "Ελληνικά",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/el/index.json"
+    },
+    {
+        "code": "he",
+        "name": "Hebrew",
+        "name_originale": "עִבְרִית",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/he/index.json"
+    },
+    {
+        "code": "hu",
+        "name": "Hungarian",
+        "name_originale": "Magyar",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/hu/index.json"
+    },
+    {
+        "code": "id",
+        "name": "Indonesian",
+        "name_originale": "Bahasa Indonesia",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/id/index.json"
+    },
+    {
+        "code": "it",
+        "name": "Italian",
+        "name_originale": "Italiano",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/it/index.json"
+    },
+    {
+        "code": "ja",
+        "name": "Japanese",
+        "name_originale": "日本語",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ja/index.json"
+    },
+    {
+        "code": "ko",
+        "name": "Korean",
+        "name_originale": "한국어",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ko/index.json"
+    },
+    {
+        "code": "no",
+        "name": "Norwegian",
+        "name_originale": "Norsk",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/no/index.json"
+    },
+    {
+        "code": "pl",
+        "name": "Polish",
+        "name_originale": "Polski",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/pl/index.json"
+    },
+    {
+        "code": "pt-BR",
+        "name": "Portuguese (Brazilian)",
+        "name_originale": "Português (Brasil)",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/pt-BR/index.json"
+    },
+    {
+        "code": "pt-PT",
+        "name": "Portuguese (European)",
+        "name_originale": "Português (Europeu)",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/pt-PT/index.json"
+    },
+    {
+        "code": "ro",
+        "name": "Romanian",
+        "name_originale": "Română",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ro/index.json"
+    },
+    {
+        "code": "ru",
+        "name": "Russian",
+        "name_originale": "Русский",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ru/index.json"
+    },
+    {
+        "code": "sr",
+        "name": "Serbian",
+        "name_originale": "Српски",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/sr/index.json"
+    },
+    {
+        "code": "sl",
+        "name": "Slovenian",
+        "name_originale": "Slovenščina",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/sl/index.json"
+    },
+    {
+        "code": "es",
+        "name": "Spanish",
+        "name_originale": "Español",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/es/index.json"
+    },
+    {
+        "code": "sv",
+        "name": "Swedish",
+        "name_originale": "Svenska",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/sv/index.json"
+    },
+    {
+        "code": "tr",
+        "name": "Turkish",
+        "name_originale": "Türkçe",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/tr/index.json"
+    },
+    {
+        "code": "uk",
+        "name": "Ukrainian",
+        "name_originale": "Українська",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/uk/index.json"
+    },
+    {
+        "code": "vi",
+        "name": "Vietnamese",
+        "name_originale": "Tiếng Việt",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/vi/index.json"
+    }
+]
