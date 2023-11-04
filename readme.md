@@ -9,6 +9,8 @@ Available languages at moment are:
 - French
 - Spanish
 - Portuguese
+- Japanese
+- Korean
 
 #### If you are not familiar with Github, just open the translation page you want to change and search for the text you are seeking and edit it, alternatively you can open an issue.
 
