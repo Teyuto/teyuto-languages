@@ -2,15 +2,42 @@
 
 This is the languages directory for Teyuto.
 
-Available languages at moment are: 
+Available languages at the moment are: 
+- Afrikaans
+- Albanian
+- Arabic
+- Bulgarian
+- Chinese
+- Czech
+- Danish
+- Dutch
 - English
-- Italian
-- German
+- Estonian
+- Finnish
 - French
-- Spanish
-- Portuguese
+- German
+- Greek
+- Hebrew
+- Hungarian
+- Indonesian
+- Italian
 - Japanese
 - Korean
+- Latin
+- Norwegian
+- Polish
+- Portuguese (Brazilian)
+- Portuguese (European)
+- Romanian
+- Russian
+- Serbian
+- Slovenian
+- Spanish
+- Swedish
+- Turkish
+- Ukrainian
+- Vietnamese
+
 
 #### If you are not familiar with Github, just open the translation page you want to change and search for the text you are seeking and edit it, alternatively you can open an issue.
 
