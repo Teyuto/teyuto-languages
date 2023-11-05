@@ -120,6 +120,12 @@
         "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ko/index.json"
     },
     {
+        "code": "la",
+        "name": "Latin",
+        "language": "Latinus",
+        "path": "https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/la/index.json"
+    },
+    {
         "code": "no",
         "name": "Norwegian",
         "language": "Norsk",
