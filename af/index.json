@@ -1,5 +1,4 @@
 {
-  "ABANDONED_CART": "Verlate kar",
   "ACCEPT_CLAUSES": "Ek aanvaar uitdruklik die volgende klousules van",
   "ACCESS_BLOCKED_IN_SELECTED_COUNTRIES": "Toegang sal in die geselekteerde lande geblokkeer word",
   "ACCESS_NOW": "Toegang nou",
@@ -1206,5 +1205,6 @@
   "YOU_NEED_TO_UPGRADE_PLATINUM": "Jy moet jou plan na Platinum opgradeer",
   "YOU_NEED_TO_UPGRADE_PLATINUM_IF_MORE_FREE_SERIES_OR_PRICE": "Jy moet jou plan na Platinum opgradeer as jy meer gratis versamelings wil skep of seker maak dat jy 'n prys groter as of gelyk aan 5€ ingevoer het.",
   "YOU_STILL_HAVE_DOUBTS": "Het jy nog twyfel? Besoek ons",
-  "YOU_WILL_BE_CHARGED": "Jy sal gehef word"
+  "YOU_WILL_BE_CHARGED": "Jy sal gehef word",
+  "NOTICE_ONLY_ACTIVE_LANGUAGES": "Jy kan die tale kies wat van die instellings aktief gemaak is"
 }
