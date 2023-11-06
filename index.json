@@ -1206,5 +1206,6 @@
   "YOU_NEED_TO_UPGRADE_PLATINUM": "You must upgrade your plan to Platinum",
   "YOU_NEED_TO_UPGRADE_PLATINUM_IF_MORE_FREE_SERIES_OR_PRICE": "You need to upgrade your plan to Platinum if you want to create more free collections or make sure you have entered a price greater than or equal to 5€.",
   "YOU_STILL_HAVE_DOUBTS": "Do you still have doubts? Visit our ",
-  "YOU_WILL_BE_CHARGED": "You will be charged"
+  "YOU_WILL_BE_CHARGED": "You will be charged",
+  "NOTICE_ONLY_ACTIVE_LANGUAGES": "You can select the languages that have been made active of the settings"
 }
