@@ -1,4 +1,5 @@
 {
+    "ABANDONED_CART": "Abandoned cart",
     "ACCEPT_CLAUSES": "أوافق صراحة على البنود التالية من",
     "ACCESS_BLOCKED_IN_SELECTED_COUNTRIES": "سيتم حظر الوصول في البلدان المحددة",
     "ACCESS_NOW": "الوصول الآن",
@@ -662,6 +663,7 @@
     "MONTHLY": "شهريا",
     "MONTHS": "شهور",
     "MORE": "أكثر",
+    "MORE_ABOUT_YOU": "More about you",
     "MOST_RELEVANT_CATEGORIES": "الفئات الأكثر صلة",
     "MULTIPLE_CHOICE": "أسئلة ذات إجابة واحدة",
     "MUST_COMPLETE": "مطلوب لإكمال",
@@ -683,6 +685,7 @@
     "NEW_PASSWORD": "كلمة المرور الجديدة",
     "NEW_SUBSCRIPTION": "اشتراك جديد",
     "NEW_VIDEO": "فيديو جديد",
+    "NOTICE_ONLY_ACTIVE_LANGUAGES": "يمكنك تحديد اللغات التي تم تفعيلها من الإعدادات",
     "NOTIFICATIONS": "إشعارات",
     "NOT_BE_DISPLAYED_TRAILER": "لن يتم عرضه في المقطورة",
     "NOT_LISTED": "لا تظهر في الكتالوج",
@@ -1116,6 +1119,5 @@
     "YOU_MUST_INSERT_SERIES": "حدد مجموعة",
     "YOU_NEED_TO_UPGRADE_PLATINUM": "يجب عليك ترقية خطتك إلى الفئة البلاتينية",
     "YOU_STILL_HAVE_DOUBTS": "هل لا تزال لديك شكوك؟ زرنا",
-    "YOU_WILL_BE_CHARGED": "سيتم محاسبتك",
-    "NOTICE_ONLY_ACTIVE_LANGUAGES": "يمكنك تحديد اللغات التي تم تفعيلها من الإعدادات"
+    "YOU_WILL_BE_CHARGED": "سيتم محاسبتك"
 }

@@ -663,6 +663,7 @@
     "MONTHLY": "Maandeliks",
     "MONTHS": "maande",
     "MORE": "Meer",
+    "MORE_ABOUT_YOU": "Meer oor jou",
     "MOST_RELEVANT_CATEGORIES": "Mees relevante kategorieë",
     "MULTIPLE_CHOICE": "Enkel-antwoord vrae",
     "MUST_COMPLETE": "Vereis om te voltooi",
@@ -684,6 +685,7 @@
     "NEW_PASSWORD": "Nuwe Wagwoord",
     "NEW_SUBSCRIPTION": "Nuwe intekening",
     "NEW_VIDEO": "Nuwe video",
+    "NOTICE_ONLY_ACTIVE_LANGUAGES": "Jy kan die tale kies wat van die instellings aktief gemaak is",
     "NOTIFICATIONS": "Kennisgewings",
     "NOT_BE_DISPLAYED_TRAILER": "Dit sal nie in die sleepwa vertoon word nie",
     "NOT_LISTED": "Moenie in die katalogus wys nie",
@@ -1117,7 +1119,5 @@
     "YOU_MUST_INSERT_SERIES": "Kies 'n versameling",
     "YOU_NEED_TO_UPGRADE_PLATINUM": "Jy moet jou plan na Platinum opgradeer",
     "YOU_STILL_HAVE_DOUBTS": "Het jy nog twyfel? Besoek ons",
-    "YOU_WILL_BE_CHARGED": "Jy sal gehef word",
-    "NOTICE_ONLY_ACTIVE_LANGUAGES": "Jy kan die tale kies wat van die instellings aktief gemaak is",
-    "MORE_ABOUT_YOU": "Meer oor jou"
+    "YOU_WILL_BE_CHARGED": "Jy sal gehef word"
 }

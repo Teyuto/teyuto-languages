@@ -1,4 +1,5 @@
 {
+    "ABANDONED_CART": "Opuštěný vozík",
     "ACCEPT_CLAUSES": "Výslovně přijímám následující ustanovení",
     "ACCESS_BLOCKED_IN_SELECTED_COUNTRIES": "Přístup bude ve vybraných zemích zablokován",
     "ACCESS_NOW": "Přístup nyní",
@@ -662,6 +663,7 @@
     "MONTHLY": "Měsíční",
     "MONTHS": "měsíce",
     "MORE": "Více",
+    "MORE_ABOUT_YOU": "Více o vás",
     "MOST_RELEVANT_CATEGORIES": "Nejrelevantnější kategorie",
     "MULTIPLE_CHOICE": "Otázky s jednou odpovědí",
     "MUST_COMPLETE": "Povinné k dokončení",
@@ -683,6 +685,7 @@
     "NEW_PASSWORD": "Nové heslo",
     "NEW_SUBSCRIPTION": "Nové předplatné",
     "NEW_VIDEO": "Nové video",
+    "NOTICE_ONLY_ACTIVE_LANGUAGES": "Můžete vybrat jazyky, které byly v nastavení aktivovány",
     "NOTIFICATIONS": "Oznámení",
     "NOT_BE_DISPLAYED_TRAILER": "V upoutávce se nezobrazí",
     "NOT_LISTED": "Nezobrazovat v katalogu",
@@ -1116,6 +1119,5 @@
     "YOU_MUST_INSERT_SERIES": "Vyberte sbírku",
     "YOU_NEED_TO_UPGRADE_PLATINUM": "Musíte upgradovat svůj plán na Platinum",
     "YOU_STILL_HAVE_DOUBTS": "Máte stále pochybnosti? Navštivte naši",
-    "YOU_WILL_BE_CHARGED": "Budou vám účtovány",
-    "NOTICE_ONLY_ACTIVE_LANGUAGES": "Můžete vybrat jazyky, které byly v nastavení aktivovány"
+    "YOU_WILL_BE_CHARGED": "Budou vám účtovány"
 }

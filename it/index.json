@@ -663,6 +663,7 @@
     "MONTHLY": "Mensile",
     "MONTHS": "mesi",
     "MORE": "Altro",
+    "MORE_ABOUT_YOU": "Di più su di te",
     "MOST_RELEVANT_CATEGORIES": "Categorie più rilevanti",
     "MULTIPLE_CHOICE": "Domande a risposta singola",
     "MUST_COMPLETE": "Obbligo di completamento",
@@ -684,6 +685,7 @@
     "NEW_PASSWORD": "Nuova password",
     "NEW_SUBSCRIPTION": "Nuovo abbonamento",
     "NEW_VIDEO": "Nuovo video",
+    "NOTICE_ONLY_ACTIVE_LANGUAGES": "È possibile selezionare le lingue che sono state rese attive dalle impostazioni",
     "NOTIFICATIONS": "Notifiche",
     "NOT_BE_DISPLAYED_TRAILER": "Non verrà visualizzato nel trailer",
     "NOT_LISTED": "Non mostrare nel catalogo",
@@ -1117,7 +1119,5 @@
     "YOU_MUST_INSERT_SERIES": "Seleziona una collezione",
     "YOU_NEED_TO_UPGRADE_PLATINUM": "Devi aggiornare il tuo piano a Platinum",
     "YOU_STILL_HAVE_DOUBTS": "Hai ancora dei dubbi? Visita le nostre",
-    "YOU_WILL_BE_CHARGED": "Ti saranno addebitati",
-    "NOTICE_ONLY_ACTIVE_LANGUAGES": "È possibile selezionare le lingue che sono state rese attive dalle impostazioni",
-    "MORE_ABOUT_YOU": "Di più su di te"
+    "YOU_WILL_BE_CHARGED": "Ti saranno addebitati"
 }

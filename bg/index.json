@@ -1,4 +1,5 @@
 {
+    "ABANDONED_CART": "Изоставена количка",
     "ACCEPT_CLAUSES": "Изрично приемам следните клаузи на",
     "ACCESS_BLOCKED_IN_SELECTED_COUNTRIES": "Достъпът ще бъде блокиран в избраните държави",
     "ACCESS_NOW": "Достъп сега",
@@ -662,6 +663,7 @@
     "MONTHLY": "Месечно",
     "MONTHS": "месеца",
     "MORE": "| Повече ▼",
+    "MORE_ABOUT_YOU": "Повече за вас",
     "MOST_RELEVANT_CATEGORIES": "Най-подходящите категории",
     "MULTIPLE_CHOICE": "Въпроси с един отговор",
     "MUST_COMPLETE": "Задължително за попълване",
@@ -683,6 +685,7 @@
     "NEW_PASSWORD": "Нова парола",
     "NEW_SUBSCRIPTION": "Нов абонамент",
     "NEW_VIDEO": "Ново видео",
+    "NOTICE_ONLY_ACTIVE_LANGUAGES": "Можете да изберете езиците, които са активирани от настройките",
     "NOTIFICATIONS": "Известия",
     "NOT_BE_DISPLAYED_TRAILER": "Няма да се показва в трейлъра",
     "NOT_LISTED": "Не показвайте в каталога",
@@ -1116,6 +1119,5 @@
     "YOU_MUST_INSERT_SERIES": "Изберете колекция",
     "YOU_NEED_TO_UPGRADE_PLATINUM": "Трябва да надстроите плана си до Platinum",
     "YOU_STILL_HAVE_DOUBTS": "Още ли се съмнявате? Посетете нашия",
-    "YOU_WILL_BE_CHARGED": "Ще бъдеш глобен",
-    "NOTICE_ONLY_ACTIVE_LANGUAGES": "Можете да изберете езиците, които са активирани от настройките"
+    "YOU_WILL_BE_CHARGED": "Ще бъдеш глобен"
 }
