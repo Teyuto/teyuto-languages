@@ -1,4 +1,5 @@
 {
+  "ABANDONED_CART": "Изоставена количка",
   "ACCEPT_CLAUSES": "Изрично приемам следните клаузи на",
   "ACCESS_BLOCKED_IN_SELECTED_COUNTRIES": "Достъпът ще бъде блокиран в избраните държави",
   "ACCESS_NOW": "Достъп сега",
@@ -1206,5 +1207,6 @@
   "YOU_NEED_TO_UPGRADE_PLATINUM_IF_MORE_FREE_SERIES_OR_PRICE": "Трябва да надстроите плана си до Platinum, ако искате да създадете повече безплатни колекции или се уверете, че сте въвели цена, по-голяма или равна на 5 €.",
   "YOU_STILL_HAVE_DOUBTS": "Още ли се съмнявате? Посетете нашия",
   "YOU_WILL_BE_CHARGED": "Ще бъдеш глобен",
-  "NOTICE_ONLY_ACTIVE_LANGUAGES": "Можете да изберете езиците, които са активирани от настройките"
+  "NOTICE_ONLY_ACTIVE_LANGUAGES": "Можете да изберете езиците, които са активирани от настройките",
+  "MORE_ABOUT_YOU": "Повече за вас"
 }
