@@ -1,4 +1,5 @@
 {
+  "ABANDONED_CART": "Opuštěný vozík",
   "ACCEPT_CLAUSES": "Výslovně přijímám následující ustanovení",
   "ACCESS_BLOCKED_IN_SELECTED_COUNTRIES": "Přístup bude ve vybraných zemích zablokován",
   "ACCESS_NOW": "Přístup nyní",
@@ -1206,5 +1207,6 @@
   "YOU_NEED_TO_UPGRADE_PLATINUM_IF_MORE_FREE_SERIES_OR_PRICE": "Pokud chcete vytvořit více bezplatných kolekcí nebo se ujistit, že jste zadali cenu vyšší nebo rovnou 5 EUR, musíte svůj plán upgradovat na Platinum.",
   "YOU_STILL_HAVE_DOUBTS": "Máte stále pochybnosti? Navštivte naši",
   "YOU_WILL_BE_CHARGED": "Budou vám účtovány",
-  "NOTICE_ONLY_ACTIVE_LANGUAGES": "Můžete vybrat jazyky, které byly v nastavení aktivovány"
+  "NOTICE_ONLY_ACTIVE_LANGUAGES": "Můžete vybrat jazyky, které byly v nastavení aktivovány",
+  "MORE_ABOUT_YOU": "Více o vás"
 }
