@@ -5,73 +5,40 @@ Everyone is invited to actively participate in the translation of Teyuto, as the
 
 **Native translations available:**
 
-*   Afrikaans
-
-*   Albanian
-
-*   Arabic
-
-*   Bulgarian
-
-*   Chinese
-
-*   Czech
-
-*   Danish
-
-*   Dutch
-
-*   English
-
-*   Estonian
-
-*   Finnish
-
-*   French
-
-*   German
-
-*   Greek
-
-*   Hebrew
-
-*   Hungarian
-
-*   Indonesian
-
-*   Italian
-
-*   Japanese
-
-*   Korean
-
-*   Latin
-
-*   Norwegian
-
-*   Polish
-
-*   Portuguese (Brazilian)
-
-*   Portuguese (European)
-
-*   Romanian
-
-*   Russian
-
-*   Serbian
-
-*   Slovenian
-
-*   Spanish
-
-*   Swedish
-
-*   Turkish
-
-*   Ukrainian
-
-*   Vietnamese
+- [Afrikaans](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/af/index.json)
+- [Albanian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/sq/index.json)
+- [Arabic](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ar/index.json)
+- [Bulgarian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/bg/index.json)
+- [Chinese](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/zh/index.json)
+- [Czech](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/cs/index.json)
+- [Danish](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/da/index.json)
+- [Dutch](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/nl/index.json)
+- [English](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/index.json)
+- [Estonian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/et/index.json)
+- [Finnish](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/fi/index.json)
+- [French](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/fr/index.json)
+- [German](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/de/index.json)
+- [Greek](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/el/index.json)
+- [Hebrew](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/he/index.json)
+- [Hungarian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/hu/index.json)
+- [Indonesian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/id/index.json)
+- [Italian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/it/index.json)
+- [Japanese](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ja/index.json)
+- [Korean](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ko/index.json)
+- [Latin](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/la/index.json)
+- [Norwegian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/no/index.json)
+- [Polish](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/pl/index.json)
+- [Portuguese (Brazilian)](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/pt-BR/index.json)
+- [Portuguese (European)](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/pt-PT/index.json)
+- [Romanian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ro/index.json)
+- [Russian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/ru/index.json)
+- [Serbian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/sr/index.json)
+- [Slovenian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/sl/index.json)
+- [Spanish](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/es/index.json)
+- [Swedish](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/sv/index.json)
+- [Turkish](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/tr/index.json)
+- [Ukrainian](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/uk/index.json)
+- [Vietnamese](https://cdn.jsdelivr.net/gh/Teyuto/teyuto-languages@production/vi/index.json)
 
 ## How it works:
 
