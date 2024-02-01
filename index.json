@@ -1035,5 +1035,7 @@
     "YOU_ARE_CORRECTLY_SUBSCRIBED_TO": "You are correctly subscribed to",
     "USER_SUBSCRIBED_TO": "User subscribed",
     "HAS_CORRECTLY_SUBSCRIBED_TO": "has correctly subscribed to",
-    "COPY_OF_THE_MESSAGE": "Copy of the message"
+    "COPY_OF_THE_MESSAGE": "Copy of the message",
+    "YOU_HAVE": "You have",
+    "DAYS_OF_FREE_TRIAL": "days of free trial"
 }
