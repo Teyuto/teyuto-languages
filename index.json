@@ -954,5 +954,10 @@
     "DOWNLOADS": "Downloads",
     "DOWNLOAD_COMPLETED": "Download completed",
     "DOWNLOAD_IN_PROGRESS": "Download in progress",
-    "VIDEO_ALREADY_DOWNLOADED": "Video already downloaded"
+    "VIDEO_ALREADY_DOWNLOADED": "Video already downloaded",
+    "SPEAK_TO_SEARCH": "Speak to search",
+    "DATA_SAVER": "Data saver",
+    "GOOD": "Good",
+    "BEST": "Best",
+    "ALWAYS_ASK": "Always ask"
 }
