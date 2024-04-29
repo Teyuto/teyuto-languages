@@ -570,6 +570,7 @@
     "NO_ACTIVE_PAYMENTS": "لا توجد مدفوعات نشطة",
     "NO_ACTIVE_PLAN": "لا توجد خطة نشطة",
     "NO_CARD_ATTACHED": "لا توجد بطاقة مرفقة",
+    "NO_CONTENTS_DOWNLOADED": "لم يتم تنزيل أي محتويات",
     "NO_COUPON_GENERATED": "لم يتم إنشاء قسيمة حتى الآن",
     "NO_EMAIL": "عنوان البريد الإلكتروني المقدم غير صحيح",
     "NO_GIFTCARD_ENABLED": "لم تقم بتمكين أي بطاقات هدايا بعد",

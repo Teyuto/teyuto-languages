@@ -570,6 +570,7 @@
     "NO_ACTIVE_PAYMENTS": "アクティブな支払いはありません",
     "NO_ACTIVE_PLAN": "有効なプランはありません",
     "NO_CARD_ATTACHED": "カードは付属していません",
+    "NO_CONTENTS_DOWNLOADED": "ダウンロードしたコンテンツがない",
     "NO_COUPON_GENERATED": "まだクーポンは生成されていません",
     "NO_EMAIL": "送信されたメールアドレスが正しくありません",
     "NO_GIFTCARD_ENABLED": "まだギフトカードを有効にしていません",

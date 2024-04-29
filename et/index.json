@@ -570,6 +570,7 @@
     "NO_ACTIVE_PAYMENTS": "Aktiivseid makseid pole",
     "NO_ACTIVE_PLAN": "Aktiivne plaan puudub",
     "NO_CARD_ATTACHED": "Kaarti pole lisatud",
+    "NO_CONTENTS_DOWNLOADED": "Sisu ei ole alla laaditud",
     "NO_COUPON_GENERATED": "Ühtegi kupongi pole veel loodud",
     "NO_EMAIL": "Esitatud meiliaadress ei ole õige",
     "NO_GIFTCARD_ENABLED": "Te pole veel ühtegi kinkekaarti lubanud",
