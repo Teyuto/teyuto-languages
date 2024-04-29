@@ -570,6 +570,7 @@
     "NO_ACTIVE_PAYMENTS": "활성 결제 없음",
     "NO_ACTIVE_PLAN": "활성 계획 없음",
     "NO_CARD_ATTACHED": "카드가 부착되지 않았습니다.",
+    "NO_CONTENTS_DOWNLOADED": "다운로드한 콘텐츠 없음",
     "NO_COUPON_GENERATED": "아직 생성된 쿠폰이 없습니다.",
     "NO_EMAIL": "제출된 이메일 주소가 올바르지 않습니다.",
     "NO_GIFTCARD_ENABLED": "아직 기프트카드를 활성화하지 않았습니다.",

@@ -959,5 +959,6 @@
     "DATA_SAVER": "Data saver",
     "GOOD": "Good",
     "BEST": "Best",
-    "ALWAYS_ASK": "Always ask"
+    "ALWAYS_ASK": "Always ask",
+    "NO_CONTENTS_DOWNLOADED": "No contents downloaded"
 }

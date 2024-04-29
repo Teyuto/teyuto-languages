@@ -570,6 +570,7 @@
     "NO_ACTIVE_PAYMENTS": "Нет активных платежей",
     "NO_ACTIVE_PLAN": "Нет активного плана",
     "NO_CARD_ATTACHED": "Карта не привязана",
+    "NO_CONTENTS_DOWNLOADED": "Содержимое не загружено",
     "NO_COUPON_GENERATED": "Купон еще не создан",
     "NO_EMAIL": "Указанный адрес электронной почты неверен",
     "NO_GIFTCARD_ENABLED": "Вы еще не активировали ни одну подарочную карту.",
