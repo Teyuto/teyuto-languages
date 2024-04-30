@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "שנה אמצעי תשלום",
     "SUBSCRIPTION_CREATED": "Subscription created!",
     "SUBSCRIPTION_DESC": "בקשה להירשם לקבלת גישה",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "The subscription has a duration of 7 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "משך המנוי הוא 30 יום מרגע ההרשמה ומתחדש אוטומטית בתום היום האחרון.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "משך המנוי הוא 90 יום מרגע ההרשמה ומתחדש אוטומטית בתום היום האחרון.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "משך המנוי הוא 180 יום מרגע ההרשמה ומתחדש אוטומטית בתום היום האחרון.",

@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Changer la méthode de paiement",
     "SUBSCRIPTION_CREATED": "Abonnement créé !",
     "SUBSCRIPTION_DESC": "Demande d'abonnement pour accéder",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "L'abonnement a une durée de 7 jours à compter de la date d'inscription et est automatiquement renouvelé à la fin du dernier jour.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "L'abonnement a une durée de 30 jours à partir du moment de la souscription et est automatiquement renouvelé à la fin du dernier jour.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "L'abonnement a une durée de 90 jours à partir du moment de la souscription et est automatiquement renouvelé à la fin du dernier jour.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "L'abonnement a une durée de 180 jours à partir du moment de la souscription et est automatiquement renouvelé à la fin du dernier jour.",

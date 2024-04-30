@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Abbonamento annullato correttamente",
     "SUBSCRIPTION_CREATED": "Abbonamento creato!",
     "SUBSCRIPTION_DESC": "Richiesta di iscrizione per l'accesso",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "L'abbonamento ha una durata di 7 giorni dal momento della sottoscrizione e si rinnova automaticamente alla fine dell'ultimo giorno.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "L'abbonamento ha durata 30 giorni dal momento di sottoscrizione e viene rinnovato in automatico allo scadere dell'ultimo giorno.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "L'abbonamento ha durata 90 giorni dal momento di sottoscrizione e viene rinnovato in automatico allo scadere dell'ultimo giorno.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "L'abbonamento ha durata 180 giorni dal momento di sottoscrizione e viene rinnovato in automatico allo scadere dell'ultimo giorno.",

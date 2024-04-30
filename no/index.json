@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Endre betalingsmåte",
     "SUBSCRIPTION_CREATED": "Subscription created!",
     "SUBSCRIPTION_DESC": "Forespørsel om å abonnere for tilgang",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "The subscription has a duration of 7 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Abonnementet har en varighet på 30 dager fra abonnementsøyeblikket og fornyes automatisk ved slutten av siste dag.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Abonnementet har en varighet på 90 dager fra abonnementsøyeblikket og fornyes automatisk ved slutten av siste dag.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Abonnementet har en varighet på 180 dager fra abonnementsøyeblikket og fornyes automatisk ved slutten av siste dag.",

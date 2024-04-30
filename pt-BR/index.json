@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Mudar o metodo de pagamento",
     "SUBSCRIPTION_CREATED": "Assinatura criada!",
     "SUBSCRIPTION_DESC": "Solicitação de inscrição para acesso",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "A assinatura tem duração de 7 dias a partir do momento da assinatura e é renovada automaticamente no final do último dia.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "A assinatura tem duração de 30 dias a partir do momento da assinatura e é renovada automaticamente no final do último dia.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "A assinatura tem duração de 90 dias a partir do momento da assinatura e é renovada automaticamente no final do último dia.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "A assinatura tem duração de 180 dias a partir do momento da assinatura e é renovada automaticamente ao final do último dia.",

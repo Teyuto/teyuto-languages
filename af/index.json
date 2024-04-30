@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Verander betaalmetode",
     "SUBSCRIPTION_CREATED": "Subscription created!",
     "SUBSCRIPTION_DESC": "Versoek om in te teken vir toegang",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "The subscription has a duration of 7 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Die intekening het 'n duur van 30 dae vanaf die oomblik van intekening en word outomaties aan die einde van die laaste dag hernu.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Die intekening het 'n duur van 90 dae vanaf die oomblik van intekening en word outomaties aan die einde van die laaste dag hernu.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Die intekening het 'n duur van 180 dae vanaf die oomblik van intekening en word outomaties aan die einde van die laaste dag hernu.",

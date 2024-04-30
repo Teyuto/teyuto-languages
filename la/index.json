@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Mutare mercedem modum",
     "SUBSCRIPTION_CREATED": "Subscription created!",
     "SUBSCRIPTION_DESC": "Peto ut subscribe pro accessum",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "The subscription has a duration of 7 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Subscriptio durationem 30 dierum habet a momento subscriptionis et ipso fine ultimo die renovatur.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Subscriptio durationem 90 dierum habet a momento subscriptionis et ipso fine ultimo die renovatur.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Subscriptio durationem habet 180 dierum a momento subscriptionis et ipso fine ultimo die renovatur.",

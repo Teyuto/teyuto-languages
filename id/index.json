@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Ubah metode pembayaran",
     "SUBSCRIPTION_CREATED": "Langganan dibuat!",
     "SUBSCRIPTION_DESC": "Permintaan untuk berlangganan untuk akses",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Langganan memiliki durasi 7 hari sejak berlangganan dan secara otomatis diperpanjang pada akhir hari terakhir.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Langganan memiliki durasi 30 hari sejak berlangganan dan diperpanjang secara otomatis pada akhir hari terakhir.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Langganan memiliki durasi 90 hari sejak berlangganan dan diperpanjang secara otomatis pada akhir hari terakhir.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Langganan memiliki durasi 180 hari sejak berlangganan dan diperpanjang secara otomatis pada akhir hari terakhir.",

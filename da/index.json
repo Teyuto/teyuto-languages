@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Skift betalingsmetode",
     "SUBSCRIPTION_CREATED": "Abonnement oprettet!",
     "SUBSCRIPTION_DESC": "Anmodning om at abonnere på adgang",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Abonnementet har en varighed på 7 dage fra tilmeldingstidspunktet og fornyes automatisk ved udgangen af den sidste dag.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Abonnementet har en varighed på 30 dage fra abonnementstidspunktet og fornyes automatisk ved udgangen af ​​den sidste dag.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Abonnementet har en varighed på 90 dage fra abonnementstidspunktet og fornyes automatisk ved udgangen af ​​den sidste dag.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Abonnementet har en varighed på 180 dage fra abonnementstidspunktet og fornyes automatisk ved udgangen af ​​den sidste dag.",

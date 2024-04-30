@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Thay đổi phương pháp thanh toán",
     "SUBSCRIPTION_CREATED": "Subscription created!",
     "SUBSCRIPTION_DESC": "Yêu cầu đăng ký để truy cập",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "The subscription has a duration of 7 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Đăng ký có thời hạn 30 ngày kể từ thời điểm đăng ký và được tự động gia hạn vào cuối ngày cuối cùng.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Đăng ký có thời hạn 90 ngày kể từ thời điểm đăng ký và được tự động gia hạn vào cuối ngày cuối cùng.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Đăng ký có thời hạn 180 ngày kể từ thời điểm đăng ký và được tự động gia hạn vào cuối ngày cuối cùng.",

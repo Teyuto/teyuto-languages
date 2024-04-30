@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Schimbă modalitatea de plată",
     "SUBSCRIPTION_CREATED": "Abonament creat!",
     "SUBSCRIPTION_DESC": "Solicitați abonament pentru acces",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Abonamentul are o durată de 7 zile din momentul abonării și se reînnoiește automat la sfârșitul ultimei zile.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Abonamentul are o durată de 30 de zile din momentul abonamentului și se reînnoiește automat la sfârșitul ultimei zile.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Abonamentul are o durată de 90 de zile din momentul abonamentului și se reînnoiește automat la sfârșitul ultimei zile.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Abonamentul are o durată de 180 de zile din momentul abonamentului și se reînnoiește automat la sfârșitul ultimei zile.",

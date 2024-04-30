@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Vaihda maksutapaa",
     "SUBSCRIPTION_CREATED": "Tilaus luotu!",
     "SUBSCRIPTION_DESC": "Pyydä tilaamaan pääsyä",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Tilauksen kesto on 7 päivää tilauksen tekohetkestä, ja se uusitaan automaattisesti viimeisen päivän päätyttyä.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Tilaus on voimassa 30 päivää tilaushetkestä ja uusiutuu automaattisesti viimeisen päivän lopussa.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Tilaus on voimassa 90 päivää tilaushetkestä ja uusiutuu automaattisesti viimeisen päivän lopussa.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Tilaus on voimassa 180 päivää tilaushetkestä ja uusiutuu automaattisesti viimeisen päivän lopussa.",

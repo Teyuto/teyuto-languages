@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Spremenite način plačila",
     "SUBSCRIPTION_CREATED": "Ustvarjena naročnina!",
     "SUBSCRIPTION_DESC": "Zahteva za naročanje na dostop",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Naročnina traja 7 dni od trenutka prijave in se samodejno podaljša ob koncu zadnjega dne.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Naročnina velja 30 dni od trenutka sklenitve naročnine in se samodejno podaljša ob koncu zadnjega dne.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Naročnina velja 90 dni od sklenitve naročnine in se ob koncu zadnjega dne avtomatsko podaljša.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Naročnina velja 180 dni od sklenitve naročnine in se ob koncu zadnjega dne avtomatsko podaljša.",

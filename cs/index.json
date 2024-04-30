@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Změňte způsob platby",
     "SUBSCRIPTION_CREATED": "Předplatné vytvořeno!",
     "SUBSCRIPTION_DESC": "Žádost o přihlášení k odběru přístupu",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Předplatné trvá 7 dní od okamžiku předplatného a na konci posledního dne se automaticky obnoví.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Předplatné trvá 30 dní od okamžiku předplatného a automaticky se obnovuje na konci posledního dne.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Předplatné trvá 90 dní od okamžiku předplatného a je automaticky obnoveno na konci posledního dne.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Předplatné trvá 180 dní od okamžiku předplatného a je automaticky obnoveno na konci posledního dne.",
