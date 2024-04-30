@@ -960,5 +960,6 @@
     "GOOD": "Good",
     "BEST": "Best",
     "ALWAYS_ASK": "Always ask",
-    "NO_CONTENTS_DOWNLOADED": "No contents downloaded"
+    "NO_CONTENTS_DOWNLOADED": "No contents downloaded",
+    "WEEKLY": "Weekly"
 }
