@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Ndrysho mënyrën e pagesës",
     "SUBSCRIPTION_CREATED": "Subscription created!",
     "SUBSCRIPTION_DESC": "Kërkoni të abonoheni për akses",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "The subscription has a duration of 7 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Abonimi ka një kohëzgjatje prej 30 ditësh nga momenti i abonimit dhe rinovohet automatikisht në fund të ditës së fundit.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Abonimi ka një kohëzgjatje prej 90 ditësh nga momenti i abonimit dhe rinovohet automatikisht në fund të ditës së fundit.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Abonimi ka një kohëzgjatje prej 180 ditësh nga momenti i abonimit dhe rinovohet automatikisht në fund të ditës së fundit.",

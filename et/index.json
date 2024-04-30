@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Muutke makseviisi",
     "SUBSCRIPTION_CREATED": "Tellimus loodud!",
     "SUBSCRIPTION_DESC": "Juurdepääsu tellimise taotlus",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Tellimus kestab 7 päeva alates tellimise hetkest ja uuendatakse automaatselt viimase päeva lõpus.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Tellimuse kestus on 30 päeva alates liitumise hetkest ja seda uuendatakse automaatselt viimase päeva lõpus.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Tellimuse kestus on 90 päeva alates liitumise hetkest ja seda uuendatakse automaatselt viimase päeva lõpus.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Tellimuse kestus on 180 päeva alates liitumise hetkest ja seda uuendatakse automaatselt viimase päeva lõpus.",

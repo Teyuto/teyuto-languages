@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "결제 수단 변경",
     "SUBSCRIPTION_CREATED": "구독이 생성되었습니다!",
     "SUBSCRIPTION_DESC": "액세스 구독 요청",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "구독 기간은 구독 시점부터 7일간이며 마지막 날의 말일에 자동으로 갱신됩니다.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "구독 기간은 구독일로부터 30일이며 마지막 날이 끝나면 자동으로 갱신됩니다.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "구독 기간은 구독일로부터 90일이며 마지막 날이 끝나면 자동으로 갱신됩니다.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "구독 기간은 구독 시점부터 180일이며 마지막 날이 끝나면 자동으로 갱신됩니다.",

@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Fizetési mód megváltoztatása",
     "SUBSCRIPTION_CREATED": "Előfizetés létrehozva!",
     "SUBSCRIPTION_DESC": "Előfizetés kérése a hozzáféréshez",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Az előfizetés időtartama az előfizetéstől számított 7 nap, és az utolsó nap végén automatikusan megújul.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Az előfizetés időtartama az előfizetés pillanatától számítva 30 nap, és az utolsó nap végén automatikusan megújul.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Az előfizetés időtartama 90 nap az előfizetés pillanatától számítva, és az utolsó nap végén automatikusan megújul.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Az előfizetés időtartama 180 nap az előfizetés pillanatától számítva, és az utolsó nap végén automatikusan megújul.",

@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Suscripción cancelada correctamente",
     "SUBSCRIPTION_CREATED": "Suscripción creada",
     "SUBSCRIPTION_DESC": "Solicitud de suscripción para acceder",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "La suscripción tiene una duración de 7 días desde el momento de la suscripción y se renueva automáticamente al final del último día.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "La suscripción tiene una duración de 30 días desde el momento de la suscripción y se renueva automáticamente al final del último día.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "La suscripción tiene una duración de 90 días desde el momento de la suscripción y se renueva automáticamente al final del último día.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "La suscripción tiene una duración de 180 días desde el momento de la suscripción y se renueva automáticamente al final del último día.",

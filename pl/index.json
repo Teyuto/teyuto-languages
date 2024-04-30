@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Zmiana metody płatności",
     "SUBSCRIPTION_CREATED": "Subskrypcja utworzona!",
     "SUBSCRIPTION_DESC": "Prośba o subskrypcję dostępu",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Czas trwania subskrypcji wynosi 7 dni od momentu subskrypcji i jest ona automatycznie odnawiana na koniec ostatniego dnia.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Subskrypcja trwa 30 dni od momentu subskrypcji i jest automatycznie odnawiana z końcem ostatniego dnia.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Subskrypcja trwa 90 dni od momentu subskrypcji i jest automatycznie odnawiana z końcem ostatniego dnia.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Subskrypcja trwa 180 dni od momentu subskrypcji i jest automatycznie odnawiana z końcem ostatniego dnia.",

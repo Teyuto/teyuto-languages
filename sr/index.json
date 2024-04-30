@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Промените начин плаћања",
     "SUBSCRIPTION_CREATED": "Subscription created!",
     "SUBSCRIPTION_DESC": "Захтев за претплату за приступ",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "The subscription has a duration of 7 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Претплата траје 30 дана од тренутка претплате и аутоматски се обнавља на крају последњег дана.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Претплата траје 90 дана од тренутка претплате и аутоматски се обнавља на крају последњег дана.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Претплата траје 180 дана од тренутка претплате и аутоматски се обнавља на крају последњег дана.",

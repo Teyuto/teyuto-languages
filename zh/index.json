@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "更改付款方式",
     "SUBSCRIPTION_CREATED": "创建订阅！",
     "SUBSCRIPTION_DESC": "请求订阅访问",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "订阅期限为 7 天，从订阅之时起算，并在最后一天结束时自动续订。",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "订阅自订阅之日起有效期为 30 天，并在最后一天结束时自动续订。",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "订阅自订阅之日起有效期为 90 天，并在最后一天结束时自动续订。",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "订阅自订阅之日起有效期为 180 天，并在最后一天结束时自动续订。",

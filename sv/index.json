@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Ändra betalningsmetod",
     "SUBSCRIPTION_CREATED": "Prenumeration skapad!",
     "SUBSCRIPTION_DESC": "Begäran att prenumerera för åtkomst",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Abonnemanget löper i 7 dagar från det att det tecknas och förnyas automatiskt vid utgången av den sista dagen.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Abonnemanget har en löptid på 30 dagar från prenumerationsögonblicket och förnyas automatiskt i slutet av den sista dagen.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Abonnemanget har en löptid på 90 dagar från prenumerationsögonblicket och förnyas automatiskt i slutet av den sista dagen.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Abonnemanget har en löptid på 180 dagar från prenumerationsögonblicket och förnyas automatiskt i slutet av den sista dagen.",

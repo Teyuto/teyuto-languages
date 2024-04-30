@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "支払い方法を変更する",
     "SUBSCRIPTION_CREATED": "サブスクリプションが作成されました！",
     "SUBSCRIPTION_DESC": "アクセスの購読をリクエストする",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "購読期間は購読開始から7日間で、最終日の終了時に自動更新されます。",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "サブスクリプションの有効期間はサブスクリプションの時点から 30 日間で、最終日の終わりに自動的に更新されます。",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "サブスクリプションの有効期間はサブスクリプションの時点から 90 日間で、最終日の終わりに自動的に更新されます。",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "サブスクリプションの有効期間はサブスクリプションの時点から 180 日間で、最終日の終わりに自動的に更新されます。",

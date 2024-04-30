@@ -819,6 +819,7 @@
     "SUBSCRIPTION_CANCELLED": "Verander betaalmethode",
     "SUBSCRIPTION_CREATED": "Abonnement aangemaakt!",
     "SUBSCRIPTION_DESC": "Verzoek om een ​​abonnement te nemen voor toegang",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "Het abonnement heeft een duur van 7 dagen vanaf het moment van inschrijving en wordt automatisch verlengd aan het einde van de laatste dag.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "Het abonnement heeft een looptijd van 30 dagen vanaf het moment van abonnement en wordt automatisch verlengd aan het einde van de laatste dag.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "Het abonnement heeft een looptijd van 90 dagen vanaf het moment van abonnement en wordt automatisch verlengd aan het einde van de laatste dag.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "Het abonnement heeft een looptijd van 180 dagen vanaf het moment van abonnement en wordt automatisch verlengd aan het einde van de laatste dag.",

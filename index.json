@@ -790,6 +790,7 @@
     "SUBSCRIPTIONS": "Subscriptions",
     "SUBSCRIPTION_CANCELLED": "Change payment method",
     "SUBSCRIPTION_DESC": "Request to subscribe for access",
+    "SUBSCRIPTION_DURATION_AND_RENEW0": "The subscription has a duration of 7 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW1": "The subscription has a duration of 30 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW2": "The subscription has a duration of 90 days from the moment of subscription and is automatically renewed at the end of the last day.",
     "SUBSCRIPTION_DURATION_AND_RENEW3": "The subscription has a duration of 180 days from the moment of subscription and is automatically renewed at the end of the last day.",
